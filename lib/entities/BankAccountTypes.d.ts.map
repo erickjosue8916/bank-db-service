@@ -1,0 +1,1 @@
+{"version":3,"file":"BankAccountTypes.d.ts","sourceRoot":"","sources":["../../src/entities/BankAccountTypes.ts"],"names":[],"mappings":"AAAA,OAAO,EAAU,UAAU,EAA8C,MAAM,SAAS,CAAC;AACzF,OAAO,EAAE,YAAY,EAAE,MAAM,gBAAgB,CAAC;AAE9C,qBACa,gBAAiB,SAAQ,UAAU;IAE9C,EAAE,EAAE,MAAM,CAAC;IAGX,KAAK,EAAE,MAAM,CAAC;IAGd,KAAK,EAAE,MAAM,CAAC;IAGd,YAAY,EAAE,YAAY,EAAE,CAAC;CAC9B"}
